@@ -92,5 +92,6 @@ StudentID: 301145311
      ? 'pipe ' + addr
      : 'port ' + addr.port;
    debug('Listening on ' + bind);
+   console.log(`Assignment 1 Code app listening at http://localhost:${port}`)
  }
  

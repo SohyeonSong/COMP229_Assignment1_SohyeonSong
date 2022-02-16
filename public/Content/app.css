@@ -12,7 +12,7 @@ section {
   align-items: center;
   min-height: 650px;
   padding-top: 100px;
-  background: #e0efe3;
+  background: #e0ebef;
 }
 
 /*Determine the degree of curve*/
@@ -45,7 +45,7 @@ section {
   border-radius: 100% 50%;
   width: 55%;
   height: 100%;
-  background-color: #e0efe3;
+  background-color: #e0e8ef;
   transform: translate(-4%, 40%);
   z-index: -1;
 }
@@ -100,18 +100,22 @@ main {
 }
 
 #green {
-  color: rgb(25, 152, 236);
+  color: rgb(5, 19, 29);
 }
 
 #card1 {
-  color: grey;
+  color: black;
+  background-color: grey;
 }
 #card2 {
-  color: rgb(138, 159, 252);
+  color: black;
+  background-color: rgb(138, 159, 252);
 }
 #card3 {
-  color: rgb(187, 61, 218);
+  color: black;
+  background-color: rgb(230, 178, 243);
 }
 #card4 {
-  color:rgb(177, 177, 35);
+  color: black;
+  background-color:rgb(243, 243, 180);
 }

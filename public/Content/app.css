@@ -82,7 +82,7 @@ main {
 }
 
 #form {
-  border: solid rgb(70, 180, 112) 5px;
+  border: solid rgb(154, 196, 245) 5px;
   border-radius: 3px;    
   width: 600px;
   padding-left: 20px;
@@ -96,21 +96,21 @@ main {
 }
 
 #lgreen {
-  color: rgb(111, 158, 111);
+  color: rgb(198, 225, 255);
 }
 
 #green {
-  color: green;
+  color: rgb(25, 152, 236);
 }
 
 #card1 {
   color: grey;
 }
 #card2 {
-  color: green;
+  color: rgb(138, 159, 252);
 }
 #card3 {
-  color: rgb(218, 61, 61);
+  color: rgb(187, 61, 218);
 }
 #card4 {
   color:rgb(177, 177, 35);
